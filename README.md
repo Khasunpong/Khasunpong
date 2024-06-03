@@ -4,4 +4,4 @@
 
 • 💻 Learning C++, CSS, Python, Flutter, HTML, JS, ReactJS, NodeJS
 
-• Mainly a Robox Developer and secondly Business Owner 
+• Mainly a Business Owner and secondly Robox Developer
